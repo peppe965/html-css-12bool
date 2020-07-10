@@ -12,7 +12,7 @@
 [class*="col"] .nested{
   background-color: red;
   border: 5px solid lightpink;
-  height: 195px;
+  height: 198px;
 }
 
 [class*="col"]>p{
