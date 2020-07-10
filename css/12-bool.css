@@ -14,8 +14,8 @@
 }
 
 [class*="col-"]{
+  height: 100%;
   float:left;
-  height: 200px;
   position: relative;
 }
 

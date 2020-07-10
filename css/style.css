@@ -10,9 +10,8 @@
 }
 
 [class*="col"] .nested{
-  background-color: red;
-  border: 5px solid lightpink;
-  height: 198px;
+  background-color: lightcoral;
+  border: 1px solid #fff;
 }
 
 [class*="col"]>p{
@@ -21,4 +20,12 @@
   left:50%;
   transform: translate(-50%, -50%);
   text-align: center;
+}
+
+.container .col-6{
+  padding: 5px;
+}
+
+.row{
+  height: 200px;
 }
